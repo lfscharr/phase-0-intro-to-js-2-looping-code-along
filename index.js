@@ -13,7 +13,7 @@ writeCards(friend);
 
 function countDown(num) {
 let countDown = num ;
-while (countDown >= 0); {
+while (countDown >= 0) {
     console.log(countDown);
     
 countDown-= 1
